@@ -1,0 +1,8 @@
+D:\WinAppForTeamCity\WinAppForTeamCity\bin\Debug\WinAppForTeamCity.exe
+D:\WinAppForTeamCity\WinAppForTeamCity\bin\Debug\WinAppForTeamCity.pdb
+D:\WinAppForTeamCity\WinAppForTeamCity\obj\Debug\WinAppForTeamCity.csprojResolveAssemblyReference.cache
+D:\WinAppForTeamCity\WinAppForTeamCity\obj\Debug\WinAppForTeamCity.Form1.resources
+D:\WinAppForTeamCity\WinAppForTeamCity\obj\Debug\WinAppForTeamCity.Properties.Resources.resources
+D:\WinAppForTeamCity\WinAppForTeamCity\obj\Debug\WinAppForTeamCity.csproj.GenerateResource.Cache
+D:\WinAppForTeamCity\WinAppForTeamCity\obj\Debug\WinAppForTeamCity.exe
+D:\WinAppForTeamCity\WinAppForTeamCity\obj\Debug\WinAppForTeamCity.pdb
